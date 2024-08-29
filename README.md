@@ -183,6 +183,7 @@ Here is a list of community roles with current and previous members:
 - Triagers ([@open-telemetry/collector-triagers](https://github.com/orgs/open-telemetry/teams/collector-triagers)):
 
   - [Andrzej Stencel](https://github.com/andrzej-stencel), Elastic
+  - [Chandra Dixit](https://github.com/andrzej-stencel), CC UK
   - Actively seeking contributors to triage issues
 
 - Emeritus Triagers:
